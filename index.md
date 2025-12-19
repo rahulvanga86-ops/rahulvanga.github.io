@@ -1,4 +1,7 @@
-# Rahul Vanga
+---
+layout: page
+title: ""
+---
 
 Structured Credit & Private Debt Portfolio Professional
 
