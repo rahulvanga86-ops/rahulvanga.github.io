@@ -10,6 +10,6 @@ This site documents:
 - Small applied analytics projects  
 
 ## Explore
-* [Blog](/blog/)
-* [Projects](/projects.html)
-* [About](/about.html)
+* [About Me](about.html)
+* [My Portfolio](portfolio.html)
+* [Read Blog](blog.html)
