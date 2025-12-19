@@ -1,3 +1,10 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+
 # Projects
 
 ## Simple Loan Portfolio Analysis (Python)
