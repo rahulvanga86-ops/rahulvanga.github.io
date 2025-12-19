@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Why Volatility Is a Poor Risk Measure for Private Credit
+title: Understanding CLO Waterfalls
+permalink: /volatility-private-credit/
 ---
-
 ## Introduction
 
 Volatility is a widely used risk metric in public markets. It measures how frequently and how sharply prices move over time and works reasonably well for liquid, continuously traded assets such as equities and bonds.
