@@ -1,10 +1,6 @@
-projects/
-└── loan-portfolio-python/
-    ├── loan_portfolio.ipynb
-    └── README.md
+# Projects
 
-# Simple Loan Portfolio Analysis (Python)
+## Simple Loan Portfolio Analysis (Python)
+A basic Python project analyzing loan-level data to compute total exposure, weighted average margin, exposure by credit rating, and simple loss sensitivity.
 
-This project uses a simplified loan dataset to explore basic portfolio-level metrics such as exposure, weighted average margin, and loss sensitivity.
-
-The objective is conceptual understanding of credit portfolios rather than production-level financial modeling.
+[View project on GitHub](https://github.com/<your-username>/rahulvanga.github.io/tree/main/projects/loan-portfolio-python)
