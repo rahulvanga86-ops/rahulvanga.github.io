@@ -1,5 +1,5 @@
 ---
-title: How a CLO Waterfall Actually Works: A Simplified Walkthrough
+title: "How a CLO Waterfall Actually Works: A Simplified Walkthrough"
 permalink: /clo-waterfall/
 ---
 
