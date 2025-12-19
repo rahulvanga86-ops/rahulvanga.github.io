@@ -14,9 +14,8 @@ Here are applied analytics projects where I use Python to model credit risk and 
 
 **What I Did:**
 * Ingested raw loan tape data (Excel/CSV) using **Python (Pandas)**.
-* Calculated portfolio-level metrics: **Weighted Average Spread (WAS)**, **Weighted Average Life (WAL)**, and diversity scores.
+* Calculated portfolio-level metrics.
 * Created an automated script to flag loans exceeding concentration limits (e.g., >5% industry exposure).
-* Visualized exposure by Industry and Rating using Matplotlib.
 
 **Tech Stack:** Python, Pandas, Jupyter Notebook
 
