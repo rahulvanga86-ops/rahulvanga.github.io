@@ -1,8 +1,3 @@
----
-layout: page
-title: ""
-permalink: /
----
 
 # Rahul Vanga
 Structured Credit & Private Debt Portfolio Professional
@@ -15,7 +10,6 @@ This site documents:
 - Small applied analytics projects  
 
 ## Explore
-- [Blog](./blog.md)
-- [Projects](./projects.md)
-- [About](./about.md)
-
+* [Read my Blog](./blog)
+* [See my Projects](./projects)
+* [About Me](./about)
